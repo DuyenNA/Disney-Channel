@@ -10,9 +10,9 @@ The following tools and techniques are used in this project:
 - Jupyter Notebook as the development environment
 # Results ️🥇
 The project will generate a number of visualizations and insights about the data available on Disney+ channel. Some of the results include:
-Distribution of different genres of movies
-Popularity of different movies based on their ratings
-Number of movies released each year
-Countries have the most content that is created on Disney+ in the TV Show category.
+- Distribution of different genres of movies
+- Popularity of different movies based on their ratings
+- Number of movies released each year
+- Countries have the most content that is created on Disney+ in the TV Show category.
 # Conclusion 📑
 This project provides an overview of the movies and TV shows available on Disney+ channel and helps to understand their distribution, popularity, and more. The results of this project can be used to make informed decisions about which movies and TV shows to watch on Disney+.

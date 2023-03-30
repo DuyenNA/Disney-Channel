@@ -9,6 +9,8 @@ The following tools and techniques are used in this project:
 - Matplotlib, Seaborn library for data visualization
 - Jupyter Notebook as the development environment
 - Tableau
+![image](https://user-images.githubusercontent.com/124249298/228793894-8c4f60ea-763e-4515-8366-82c744a36be7.png)
+
 # Results ️🥇
 The project will generate a number of visualizations and insights about the data available on Disney+ channel. Some of the results include:
 - Distribution of different genres of movies
